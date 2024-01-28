@@ -20,7 +20,7 @@ header {
 .nav-but:hover {
     color: yellow;
 }
-/* #intro-overlay {
+intro-overlay {
     position: fixed;
     top: 10%;
     left: 35%;
@@ -77,4 +77,4 @@ header {
 }
 #intro-overlay button:active {
     transform: translateY(5px);
-} */
+}
